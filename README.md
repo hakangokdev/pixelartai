@@ -310,7 +310,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🌟 Star this project if you found it helpful!
 
-Made with ❤️ by [Your Name](https://github.com/hakangokdev)
+Made with ❤️ by [Hakan Gök](https://github.com/hakangokdev)
 
 [⬆ Back to top](#-pixel-art-ai-generator)
 
