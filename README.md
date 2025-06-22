@@ -15,6 +15,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56bbd27f-2170-4753-a134-adfb071b5686" width="750" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73107d5f-f2f6-4d55-acd6-11b75dba5119" width="750" />
+</p>
+
+
 ## ✨ Features
 
 <table>
@@ -62,8 +70,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pixel-art-ai-generator.git
-cd pixel-art-ai-generator
+git clone https://github.com/hakangokdev/pixelartai.git
+cd pixelartai.git
 
 # Install dependencies
 npm install
